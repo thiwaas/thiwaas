@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Thiwanka Malinga</h1>
 
 <p align="">
-   <a href="#"><img align="left" alt="thiwaas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiwaas&show_icons=true&count_private=true&theme=algolia&hide_border=true" /></a>
-  <a href="#"><img align="right" alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiwaas&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
+  <a href="#"><img align="center" alt="Shabeer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiwaas&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true" /></a>
 <!-- <a href="#"><img align="right" height="200 alt="thiwaas's Top Languages" src="https://media.giphy.com/media/sCbpbwEz3ObZq6zdmM/giphy.gif" /></a>-->
 </p>
